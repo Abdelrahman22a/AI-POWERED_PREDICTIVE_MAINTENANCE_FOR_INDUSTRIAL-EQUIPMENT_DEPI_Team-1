@@ -188,7 +188,7 @@ Deploying the trained models to a **real-time system** for continuous **RUL pred
 ### **Data Augmentation**:
 Applying techniques like **SMOTE (Synthetic Minority Over-sampling Technique)** for synthetic data generation to handle imbalanced data and improve model robustness, especially for underrepresented failure scenarios.
 
----
+---.
 
 ## **Conclusion**
 
